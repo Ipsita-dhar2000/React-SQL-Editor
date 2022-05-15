@@ -44,7 +44,7 @@ Try out the website : [REACT SQL Editor](https://62817db77f063c13dec3827c--sage-
 
 Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
 
-I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools and BrowserStack SpeedLab.
+I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools.
 
 ### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
 
