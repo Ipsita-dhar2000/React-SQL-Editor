@@ -2,7 +2,8 @@
 
 This is a REACT SQL Editor built using ReactJs and TailwindCSS.
 
-![Homepage](src/assets/screenshots/screenshot-readme.png)
+![website](https://user-images.githubusercontent.com/77696861/168494697-76442212-4b0c-45c3-906d-299289b44720.jpg)
+
 
 ## 👨‍💻 Demo
 
@@ -47,7 +48,8 @@ I calculated the performance and load time of this website using these two tools
 
 ### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
 
-![lighthouse report](src/assets/screenshots/screenshot-lighthouse.png)
+![Lighthouse-1](https://user-images.githubusercontent.com/77696861/168494723-b73add48-d166-4438-9ebf-9cb2a358b7d6.jpg)
+![Lighthouse-2](https://user-images.githubusercontent.com/77696861/168494736-4e744fe6-77a8-47fb-9424-6571d5b663ab.jpg)
 
 - **First Contentful Paint** marks the time at which the first text or image is painted
 - **Time to interactive** is the amount of time it takes for the page to become fully interactive.
@@ -56,9 +58,6 @@ I calculated the performance and load time of this website using these two tools
 - **Largest Contentful Paint** marks the time at which the largest text or image is painted.
 - **Cumulative Layout Shift** measures the movement of visible elements within the viewport.
 
-### [BrowserStack Report](https://www.browserstack.com/speedlab)
-
-![browserstack report](src/assets/screenshots/screenshot-three.png)
 
 ## 🪜 Steps I took to optimize the page load time
 
